@@ -1,4 +1,4 @@
-# Principles of Ethics and Framework
+# Ethical Principles and Framework
 
 This document outlines the **principles of ethics**, the **missions and visions** associated with these principles, the **definition of tasks and roles**, and the **actions and tools** recommended for maintaining a coherent, secure, and efficient project ecosystem. It also provides an introductory overview of the project and its potential derivatives.
 
